@@ -1,11 +1,7 @@
 import pygame, random, sys
 from pygame.locals import *
 
-<<<<<<< HEAD
 WINDOWWIDTH = 700
-=======
-WINDOWWIDTH = 600
->>>>>>> 5049279a7e24e65a5f0f9c79b515c764515230b4
 WINDOWHEIGHT = 600
 TEXTCOLOR = (0, 0, 0)
 BACKGROUNDCOLOR = (255, 255, 255)
